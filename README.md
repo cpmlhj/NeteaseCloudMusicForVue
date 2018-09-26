@@ -2,20 +2,44 @@
 
 > A NeteaseCloudMusicForVue project
 
-## Build Setup
+## 前端项目(web-client)
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+克隆项目地址并下载（需要已安装[Git](https://git-scm.com/downloads)）
+```
+git clone https://github.com/cpmlhj/NeteaseCloudMusicForVue.git
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+安装依赖
+```
+npm install
+```
+
+启动服务（http://localhost:3000） 因为项目是已网易云音乐的App版模仿的，所以请务必在浏览器上用响应式设计模式浏览
+```
+npm run dev
+```
+## Building
+
+使用webpack 对项目进行打包
+```
+npm run build
+```
+
+## 后端项目 (web-middleware)
+
+克隆项目中间件地址并下载
+```
+git clone http://github.com/cpmlhj/NeteaseCloudMusicForVue.middleware.git
+```
+上面为我自己做了小些修改的middleware。 -> [原版本在这!](https://github.com/sqaiyan/netmusic-node)
+
+```
+# install dependencies
+
+npm install
+```
+
+```
+# server at localhost: 8686
+node app
+```
