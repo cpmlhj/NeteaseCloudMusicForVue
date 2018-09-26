@@ -1,6 +1,6 @@
 # power
 
-> A Vue.js project
+> A NeteaseCloudMusicForVue project
 
 ## Build Setup
 
