@@ -43,3 +43,20 @@ npm install
 # server at localhost: 8686
 node app
 ```
+# 预览图
+<p align=center>
+  <a ><img src="https://github.com/cpmlhj/PersonImg/blob/master/4871538013204_.pic_hd.png" width='300'/></a>
+  <a ><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG489.jpeg" width='300'/></a>
+  <a><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG490.jpeg" width='300'/></a>
+  <a><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG491.jpeg" width='300'/></a>
+   <a><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG492.jpeg" width='300'/></a>
+   <a><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG493.jpeg" width='300'/></a>
+   <a><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG494.jpeg" width='300'/></a>
+   <a><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG495.jpeg" width='300'/></a>
+  <a><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG496.jpeg" width='300'/></a>
+  <a><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG497.jpeg" width='300'/></a>
+  <a><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG498.jpeg" width='300'/></a>
+  <a><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG499.jpeg" width='300'/></a>
+  <a><img src="https://github.com/cpmlhj/PersonImg/blob/master/WechatIMG501.jpeg" width='300'/></a>
+</p>
+
